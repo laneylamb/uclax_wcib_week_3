@@ -17,4 +17,9 @@ body {
   body p {
     text-align: justify; }
   body img {
-    width: 100%; }
+    border: 5px solid;
+    border-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%; }
