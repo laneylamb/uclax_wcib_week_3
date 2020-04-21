@@ -14,7 +14,12 @@ body {
   body h4 {
     color: DarkCyan;
     text-align: justify; }
+  body ol {
+    color: DarkCyan; }
+  body ul {
+    color: DarkCyan; }
   body p {
+    color: DarkCyan;
     text-align: justify; }
   body img {
     border: 5px solid;
