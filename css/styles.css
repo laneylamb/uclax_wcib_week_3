@@ -1,4 +1,22 @@
 body {
-  font-family: sans-serif; }
+  font-family: "Trebuchet MS", Helvetica, sans-serif; }
+  body h1 {
+    background-color: white;
+    color: LightSeaGreen;
+    text-align: center; }
+  body h2 {
+    background-color: white;
+    color: LightSeaGreen;
+    text-align: center; }
+  body h3 {
+    background-color: white;
+    color: LightSeaGreen;
+    text-align: justify; }
+  body h4 {
+    background-color: white;
+    color: LightSeaGreen;
+    text-align: justify; }
+  body p {
+    text-align: justify; }
   body img {
     width: 100%; }

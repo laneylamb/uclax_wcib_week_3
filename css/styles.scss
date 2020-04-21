@@ -1,5 +1,33 @@
 body {
-	font-family: sans-serif;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+	h1 {
+		background-color: white;
+		color: LightSeaGreen;
+		text-align: center;
+	}
+
+	h2 {
+		background-color: white;
+		color: LightSeaGreen;
+		text-align: center;
+	}
+
+	h3 {
+		background-color: white;
+		color: LightSeaGreen;
+		text-align: justify;
+	}
+
+	h4 {
+		background-color: white;
+		color: LightSeaGreen;
+		text-align: justify;
+	}
+
+	p {
+		text-align: justify;
+	}
 
 	img {
 		width: 100%;
