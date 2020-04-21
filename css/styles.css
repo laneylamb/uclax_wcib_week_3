@@ -9,16 +9,23 @@ body {
     text-align: center; }
   body h3 {
     color: DarkCyan;
+    padding-left: 50px;
     text-align: justify; }
   body h4 {
     color: DarkCyan;
+    padding-left: 50px;
     text-align: justify; }
   body ol {
-    color: DarkCyan; }
+    color: DarkCyan;
+    padding-left: 70px; }
   body ul {
-    color: DarkCyan; }
+    color: DarkCyan;
+    padding-left: 70px; }
   body p {
     color: DarkCyan;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 11px;
     text-align: justify; }
   body img {
     border: 5px solid;
