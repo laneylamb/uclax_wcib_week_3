@@ -1,20 +1,18 @@
 body {
+  background-image: url(/images/background3.jpg);
+  background-repeat: repeat;
   font-family: "Trebuchet MS", Helvetica, sans-serif; }
   body h1 {
-    background-color: white;
-    color: LightSeaGreen;
+    color: DarkCyan;
     text-align: center; }
   body h2 {
-    background-color: white;
-    color: LightSeaGreen;
+    color: DarkCyan;
     text-align: center; }
   body h3 {
-    background-color: white;
-    color: LightSeaGreen;
+    color: DarkCyan;
     text-align: justify; }
   body h4 {
-    background-color: white;
-    color: LightSeaGreen;
+    color: DarkCyan;
     text-align: justify; }
   body p {
     text-align: justify; }
