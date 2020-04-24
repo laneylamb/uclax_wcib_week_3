@@ -9,18 +9,15 @@ body {
     text-align: center; }
   body h3 {
     color: DarkCyan;
-    padding-left: 50px;
-    text-align: justify; }
-  body h4 {
-    color: DarkCyan;
-    padding-left: 50px;
-    text-align: justify; }
+    text-align: center; }
   body ol {
     color: DarkCyan;
-    padding-left: 70px; }
+    padding-left: 30%;
+    padding-right: 30%; }
   body ul {
     color: DarkCyan;
-    padding-left: 70px; }
+    padding-left: 30%;
+    padding-right: 30%; }
   body p {
     color: DarkCyan;
     padding-left: 40px;
